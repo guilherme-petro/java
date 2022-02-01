@@ -1,6 +1,6 @@
 package br.com.generation.exercicios;
 
-public class TestaAviao {
+public class Ex02TestaAviao {
 
 	public static void main(String[] args) {
 		
